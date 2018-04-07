@@ -1,0 +1,6 @@
+[package]
+name = "simple_blog_rust"
+version = "0.1.0"
+authors = ["klamm <klammrock@gmail.com>"]
+
+[dependencies]
